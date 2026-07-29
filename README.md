@@ -14,7 +14,7 @@ Este documento funciona como índice principal, guía de formato, rúbrica de ev
 | Engelbert | DOM, JavaScript, eventos             | Inicial         | [Engelbert.md](./Engelbert.md) |
 | Gustavo   | React Router, CSS, responsive design | En desarrollo   | [Gustavo.md](./Gustavo.md)     |
 | Juan      | POO, HTML, CSS                       | En desarrollo   | [Juan.md](./Juan.md)           |
-| Marcos    | Spring Boot por capas, SQL           | Inicial         | [Marcos.md](./Marcos.md)       |
+| Marcos    | Spring Boot por capas, SQL           | En desarrollo   | [Marcos.md](./Marcos.md)       |
 
 ---
 
