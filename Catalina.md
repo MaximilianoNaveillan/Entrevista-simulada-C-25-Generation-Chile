@@ -53,7 +53,23 @@ Escribe un programa que imprima los números del 1 al 100, pero aplicando las si
 
 **Respuesta del entrevistado:**
 
-_Espacio para que el entrevistado complete su respuesta._
+```java
+public class FizzBuzz{
+    public static void main(String[]args){
+
+     for(int i =1;i<=100;i++){
+
+     if (i % 3 == 0 && i% 5 == 0){
+     }else if (i %3 == 0){
+        system.out.println("FizzBuzz");
+        }else if (i %5 == 0){
+        }else{
+            system.out.println(i);
+        }
+        }
+     }
+    }
+```
 
 **Observaciones del evaluador:**
 
