@@ -32,7 +32,10 @@ _Espacio para que el evaluador complete._
 
 **Respuesta del entrevistado:**
 
-_Espacio para que el entrevistado complete su respuesta._
+la diferencia entre props y state:
+props: son los datos que un componente padre le pasa a un componente hijo para decirle cómo debe configurarse o renderizarse.
+
+state:es la memoria interna de un componente. Sirve para guardar datos que cambian con el tiempo a causa de la interacción del usuario, peticiones a un servidor o temporizadores.
 
 **Observaciones del evaluador:**
 
@@ -64,7 +67,8 @@ public static boolean Ejercicio(String texto){
 
 **Respuesta del entrevistado:**
 
-_Espacio para que el entrevistado complete su respuesta._
+lo que hace el codigo es un transformador de palabras en paliodromos por ejemplo cambia una palabra y la coloca al reves ej: palabra arbalap
+y tambien elimina los espacios del texto y los convierte en mayusculas
 
 **Observaciones del evaluador:**
 
