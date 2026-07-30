@@ -59,7 +59,54 @@ Requisitos:
 
 **Respuesta del entrevistado:**
 
-_Espacio para que el entrevistado complete su respuesta._
+```html
+<head>
+    <style>
+
+        body {
+        display: flex;
+        }
+
+        .formulario {
+            max-width: 400px;
+        }
+    </style>
+</head>
+<body>
+<form id="contactoForm" class="formulario">
+    <div class="campo">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" required>
+    </div>
+
+        <div class="campo">
+        <label for="correo">Correo:</label>
+        <input type="email" id="correo" name="correo" required>
+    </div>
+
+        <div class="campo">
+        <label for="mensaje">Mensaje:</label>
+        <textarea id="mensaje" name="mensaje" required></textarea>
+    </div>
+
+    <button type="submit">Enviar
+    </button>
+
+</form>
+
+<script>
+    const formulario = document.getElementById('contactoForm');
+
+    formulario.addEventListener('submit', function(evento) {
+        evento.preventDefault();
+        alert("¡Enviado con éxito!");
+    })
+</script>
+
+</body>
+
+```
+
 
 **Observaciones del evaluador:**
 
