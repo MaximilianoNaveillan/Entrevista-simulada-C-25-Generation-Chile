@@ -68,7 +68,7 @@ public static boolean Ejercicio(String texto){
 **Respuesta del entrevistado:**
 
 lo que hace el codigo es un transformador de palabras en paliodromos por ejemplo cambia una palabra y la coloca al reves ej: palabra arbalap
-y tambien elimina los espacios del texto y los convierte en mayusculas
+y tambien elimina los espacios del texto y los convierte en minusculas
 
 **Observaciones del evaluador:**
 
