@@ -4,17 +4,27 @@ Repositorio de evaluación y seguimiento para entrevistas simuladas de la cohort
 
 Este documento funciona como índice principal, guía de formato, rúbrica de evaluación y recurso de preparación para entrevistas técnicas.
 
+Para completar respuestas y subir cambios al repositorio, revisar la [Guía para Candidatos](./GUIA_CANDIDATOS.md).
+
 ---
 
 ## Entrevistas Disponibles
 
-| Candidato | Temas principales                    | Nivel observado | Archivo                        |
-| --------- | ------------------------------------ | --------------- | ------------------------------ |
-| Benjamin  | JPA, DTO, SQL                        | Inicial         | [Benjamin.md](./Benjamin.md)   |
-| Engelbert | DOM, JavaScript, eventos             | Inicial         | [Engelbert.md](./Engelbert.md) |
-| Gustavo   | React Router, CSS, responsive design | En desarrollo   | [Gustavo.md](./Gustavo.md)     |
-| Juan      | POO, HTML, CSS                       | En desarrollo   | [Juan.md](./Juan.md)           |
-| Marcos    | Spring Boot por capas, SQL           | En desarrollo   | [Marcos.md](./Marcos.md)       |
+| Candidato        | Temas principales                    | Nivel observado | Archivo                        |
+| ---------------- | ------------------------------------ | --------------- | ------------------------------ |
+| Benjamin         | JPA, DTO, SQL                        | Inicial         | [Benjamin.md](./Benjamin.md)   |
+| Catalina Zuñiga  | SQL, Java, lógica                    | Por completar   | [Catalina.md](./Catalina.md)   |
+| Christian Lorca  | DOM, HTML, CSS, JavaScript           | Por completar   | [Christian.md](./Christian.md) |
+| Claudio Salas    | Bootstrap, HTML, JavaScript          | Por completar   | [Claudio.md](./Claudio.md)     |
+| Elvis Bracho     | React, Java, lógica                  | Por completar   | [Elvis.md](./Elvis.md)         |
+| Engelbert        | DOM, JavaScript, eventos             | Inicial         | [Engelbert.md](./Engelbert.md) |
+| Gustavo          | React Router, CSS, responsive design | En desarrollo   | [Gustavo.md](./Gustavo.md)     |
+| Juan             | POO, HTML, CSS                       | En desarrollo   | [Juan.md](./Juan.md)           |
+| Luis Orellana    | Seguridad, HTML, CSS Flexbox         | Por completar   | [Luis.md](./Luis.md)           |
+| Marcos           | Spring Boot por capas, SQL           | En desarrollo   | [Marcos.md](./Marcos.md)       |
+| Maria Farias     | POO, HTML, CSS                       | Por completar   | [Maria.md](./Maria.md)         |
+| Matias Alarcon   | Seguridad API, SQL                   | Por completar   | [Matias.md](./Matias.md)       |
+| Pablo Davila     | POO, Spring Boot, REST               | Por completar   | [Pablo.md](./Pablo.md)         |
 
 ---
 
@@ -55,11 +65,11 @@ Recurso o enfoque sugerido para mejorar.
 
 Pregunta realizada al candidato.
 
-**Respuesta del candidato:**
+**Respuesta del entrevistado:**
 
 Respuesta entregada durante la entrevista.
 
-**Observaciones:**
+**Observaciones del evaluador:**
 
 - Retroalimentación técnica.
 
